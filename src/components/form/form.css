@@ -1,0 +1,30 @@
+.mainWrapper{
+    width: 50vw;
+    height: 50vh;
+    margin: auto;
+    margin-top: 5rem;
+    padding: 1rem;
+}
+.buttonWrapper{
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    cursor: pointer;
+    padding-bottom: 1rem;
+
+}
+.inputWrapper{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin: auto;
+}
+.inputText{
+    height: 2rem;
+    margin-bottom: .5rem;
+}
+.tableWrapper{
+    display: flex;
+    justify-content: center;
+    
+}
